@@ -1,6 +1,6 @@
 ---
 title: "HW2 STA521 Fall18"
-author: Jiayi Ding, jd402, jiayid]
+author: [Jiayi Ding, jd402, jiayid]
 date: "Due September 23, 2018 5pm"
 output:
   pdf_document: default
